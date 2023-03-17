@@ -8,8 +8,10 @@
   
   
   - Run programme:
-  
-  
+
+        
+        git clone https://github.com/Dunghun111/easy-unoptimize-tic-tac-toe
+        cd easy-unoptimize-tic-tac-toe
         python3 main.py
   
   
