@@ -3,10 +3,14 @@
 ## How to run
   - Install Python(Debian):
   
-  sudo apt-get install python3
+  
+    sudo apt-get install python3
+  
   
   -Run programme:
   
-  python3 main.py
+  
+    python3 main.py
+  
   
   - Have fun :D
